@@ -12,7 +12,7 @@ Universal JP は [Typora](https://typora.io/) の日本語用テーマです。
 
 # Installation
 
-1. [Universal JP テーマのファイル](https://codeload.github.com/hidekuro/typora-universal-jp-theme/zip/master) をダウンロードして任意のフォルダに展開
+1. [Universal JP テーマのファイル](https://github.com/hidekuro/typora-universal-jp-theme/archive/master.zip) をダウンロードして任意のフォルダに展開
 2. ファイルメニューから設定 (`Ctrl + ,`) を開く
 3. "テーマフォルダを開く" ボタンをクリックしてテーマフォルダを開く
 4. `universal-jp/` フォルダと `universal-jp.css` ファイルをテーマフォルダ直下にコピー
